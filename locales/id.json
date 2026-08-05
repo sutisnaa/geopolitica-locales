@@ -196,13 +196,31 @@
     "local_mines": "Tambang Lokal",
     "build_factory": "Membangun Pabrik",
     "office_terminal": "Terminal Kantor",
+    "work": "Kerja",
+    "office": "Kantor",
+    "auction": "Lelang",
     "wage_settings": "Pengaturan Kompensasi & Gaji",
     "warehouse_stockpiles": "Stok Gudang & Brankas",
     "employees": "Karyawan Harian",
     "maintenance": "Perawatan & Pemeliharaan",
     "contract": "Sewa Lahan & Kondisi",
     "blueprint": "Cetak Biru Upgrade Pabrik",
-    "danger_zone": "Zona Bahaya"
+    "danger_zone": "Zona Bahaya",
+    "start_auction_btn": "Mulai Lelang Lahan",
+    "place_bid": "Pasang Penawaran",
+    "finalize_lease": "Klaim Hak Sewa",
+    "resource_base": "Pangkalan Produksi Lokal",
+    "workplace": "Area Kerja",
+    "shift_payout_preview": "Pratinjau Hasil Kerja Shift",
+    "work_shift": "Kerja Shift (10 Energi)",
+    "cooldown_active": "Waktu Tunggu ({mins}m {secs}s)",
+    "join_workplace": "Gabung Tempat Kerja",
+    "exit_workplace": "Keluar Tempat Kerja",
+    "collect_materials": "Kumpulkan Semua Material",
+    "deposit_panel": "Panel Deposit",
+    "withdraw_panel": "Panel Penarikan",
+    "rename": "Ganti Nama",
+    "abandon_factory": "Bongkar Pabrik & Ambil Stok"
   },
   "party": {
     "title": "Partai Politik",
@@ -229,5 +247,51 @@
     "system_info": "Info Sistem",
     "account": "Akun",
     "logout": "Keluar"
+  },
+  "news": {
+  "feed_title": "Umpan Berita",
+  "agencies": "Kantor Berita",
+  "write_btn": "Tulis",
+  "search_placeholder": "Cari judul atau penerbit...",
+  "tab_latest": "Terbaru",
+  "tab_popular": "Populer",
+  "categories": {
+    "all": "Semua",
+    "politics": "Politik",
+    "war": "Perang & Tempur",
+    "economy": "Ekonomi",
+    "opinion": "Opini"
+  },
+  "no_articles": "Tidak ada artikel diterbitkan.",
+  "publisher": "Penerbit: {name}",
+  "publish": {
+    "title": "Tulis Artikel",
+    "headline_placeholder": "Masukkan judul berita...",
+    "content_placeholder": "Tulis isi artikel dengan format BBCode...",
+    "meta_edit": "Edit Meta",
+    "meta_close": "Tutup Meta",
+    "publisher_label": "Penerbit",
+    "personal_publisher": "Pribadi ({name})",
+    "category_label": "Kategori",
+    "lang_label": "Bahasa",
+    "editor_mode": "Editor",
+    "preview_mode": "Pratinjau",
+    "publish_btn": "Terbitkan Artikel",
+    "publishing": "Menerbitkan...",
+    "words_count": "{count} Kata",
+    "read_time": "~{mins} Mnt Baca"
+  },
+  "agency": {
+    "title": "Kantor Berita",
+    "found_btn": "Dirikan Kantor",
+    "no_agencies": "Belum ada kantor berita terdaftar.",
+    "owner_badge": "PEMILIK",
+    "joined_badge": "BERGABUNG",
+    "join_btn": "Gabung Kantor",
+    "view_profile": "Lihat Profil",
+    "members_count": "{count} Anggota",
+    "donate_vault": "Sumbang Brankas",
+    "leave_agency": "Keluar Kantor"
   }
-  }
+}
+}
