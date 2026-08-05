@@ -1,0 +1,52 @@
+{
+  "common": {
+    "online": "Online",
+    "offline": "Offline",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "edit": "Ubah",
+    "delete": "Hapus",
+    "submit": "Kirim",
+    "back": "Kembali",
+    "view_details": "Lihat Detail",
+    "open": "Buka",
+    "closed": "Tutup",
+    "active": "Aktif",
+    "ended": "Selesai"
+  },
+  "nav": {
+    "dash": "Dasbor",
+    "map": "Peta",
+    "firm": "Pabrik",
+    "news": "Berita",
+    "profile": "Profil"
+  },
+  "dash": {
+    "online_counter": "Pemain Online",
+    "commodity_exchange": "Bursa Komoditas",
+    "trade_market": "Pasar Perdagangan",
+    "active_war": "Perang Aktif",
+    "view_wars": "Daftar Perang",
+    "news_recommendation": "Rekomendasi Berita",
+    "read_article": "Baca Artikel",
+    "local_elections": "Pemilu Lokal",
+    "view_elections": "Lihat Pemilu",
+    "political_affiliation": "Partai Politik",
+    "directives": "Pengumuman & Direktif"
+  },
+  "market": {
+    "title": "Bursa Komoditas",
+    "top_gainer": "Gainer",
+    "top_loser": "Loser",
+    "trade_conditions": "Kondisi Perdagangan",
+    "free_trade": "BEBAS TARIF (0%)",
+    "embargoed": "DIEMBARGO",
+    "tariff": "TARIF +{rate}%"
+  },
+  "war": {
+    "score": "Skor: {score}",
+    "target": "Target: {region}",
+    "ends_in": "Sisa {hours}j {mins}m",
+    "join_war": "Ikut Perang"
+  }
+}
