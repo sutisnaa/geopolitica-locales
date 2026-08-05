@@ -1,0 +1,52 @@
+{
+  "common": {
+    "online": "Online",
+    "offline": "Offline",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "submit": "Submit",
+    "back": "Back",
+    "view_details": "View Details",
+    "open": "Open",
+    "closed": "Closed",
+    "active": "Active",
+    "ended": "Ended"
+  },
+  "nav": {
+    "dash": "Dash",
+    "map": "Map",
+    "firm": "Firm",
+    "news": "News",
+    "profile": "Profile"
+  },
+  "dash": {
+    "online_counter": "Online Players",
+    "commodity_exchange": "Commodity Exchange",
+    "trade_market": "Trade Market",
+    "active_war": "Active War",
+    "view_wars": "View Wars List",
+    "news_recommendation": "News Recommendation",
+    "read_article": "Read Article",
+    "local_elections": "Local Elections",
+    "view_elections": "View Elections",
+    "political_affiliation": "Political Affiliation",
+    "directives": "Directives & Announcements"
+  },
+  "market": {
+    "title": "Commodity Exchange",
+    "top_gainer": "Gainer",
+    "top_loser": "Loser",
+    "trade_conditions": "Trade Conditions",
+    "free_trade": "FREE TRADE (0%)",
+    "embargoed": "EMBARGOED",
+    "tariff": "+{rate}% TARIFF"
+  },
+  "war": {
+    "score": "Score: {score}",
+    "target": "Target: {region}",
+    "ends_in": "Ends in {hours}h {mins}m",
+    "join_war": "Join War"
+  }
+}
