@@ -1,16 +1,20 @@
 # 🌍 GEOPOLITICA - Official Community Localization
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/sutisnaa/geopolitica-locales/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Game Version](https://img.shields.io/badge/GEOPOLITICA-Alpha%20Phase-blue.svg?style=flat-square)](https://playgeopolitica.com)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/playgeopolitica)
+
+
 Welcome to the official community localization repository for **GEOPOLITICA** (Persistent Browser-Based Geopolitical Sandbox MMO). This repository holds all translation files used in the game.
+
 We welcome contributions from players and translators worldwide to bring GEOPOLITICA to your native language!
+
 ---
 ## 🗺️ Supported Languages & Status
 
 | Language Code | Language | Status | Maintainer / Contributors |
 | :--- | :--- | :--- | :--- |
-| `en` | **English** *(Master)* | 🟢 100% | Core Development Team |
-| `id` | **Indonesian** *(Official)* | 🟢 100% | Core Development Team |
+| `en` | **English** *(Master)* | 🟡 WIP | Core Development Team |
+| `id` | **Indonesian** *(Official)* | 🟡 WIP | Core Development Team |
 | `es` | **Spanish** | ⚪ 0% | *Looking for contributors!* |
 | `ru` | **Russian** | ⚪ 0% | *Looking for contributors!* |
 | `de` | **German** | ⚪ 0% | *Looking for contributors!* |
