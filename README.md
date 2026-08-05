@@ -37,18 +37,21 @@ Navigate to the `locales/` folder:
 - **To add a new language:** Copy `locales/en.json` and rename it to your language code (e.g. `locales/es.json` for Spanish).
 ### 3. Translate the Values
 Only translate the values on the right side of the JSON pairs. Never modify the keys on the left side!
+
 **Correct Example:**
 {
   "dash": {
     "commodity_exchange": "Bursa Komoditas"
   }
 }
+
 **Incorrect Example (DO NOT DO THIS):**
 {
   "dash": {
     "bursa_komoditas": "Bursa Komoditas"  <-- BAD! Key name was altered.
   }
 }
+
 ### 4. Validate Your JSON
 Before submitting, make sure your JSON syntax is valid. You can test your JSON online using JSONLint.
 ### 5. Submit a Pull Request (PR)
